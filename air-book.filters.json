@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "65955afc1fae8f48891936b0"
+  },
+  "id": "all",
+  "label": "All"
+},
+{
+  "_id": {
+    "$oid": "65955b421fae8f48891936b1"
+  },
+  "id": "pork",
+  "label": "Pork"
+},
+{
+  "_id": {
+    "$oid": "65955b421fae8f48891936b2"
+  },
+  "id": "seafood",
+  "label": "Seafood"
+},
+{
+  "_id": {
+    "$oid": "65955b421fae8f48891936b3"
+  },
+  "id": "kids",
+  "label": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65955b421fae8f48891936b4"
+  },
+  "id": "chicken",
+  "label": "Chicken"
+},
+{
+  "_id": {
+    "$oid": "65955b421fae8f48891936b5"
+  },
+  "id": "beef",
+  "label": "Beef"
+},
+{
+  "_id": {
+    "$oid": "65955b421fae8f48891936b6"
+  },
+  "id": "vegetarian",
+  "label": "Vegetarian"
+},
+{
+  "_id": {
+    "$oid": "65955b421fae8f48891936b7"
+  },
+  "id": "breakfast",
+  "label": "Breakfast"
+}]
