@@ -1,0 +1,4 @@
+export declare const dummyPhoneNumber = "7795572420";
+export declare const dummyOTP = "1234";
+export declare const NEXT_AUTH_JWT_SECRET_KEY = "57951b1f9f795764cfa90749608b37a0c1ff691319d22a68f4228d82a9637be6";
+export declare const NEXT_REFRESH_JWT_SECRET_KEY = "bdaf2f8d04cea26aa546876b1e27b3e4db96a524a128dd033745b2de5a5c175a";
